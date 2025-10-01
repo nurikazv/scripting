@@ -11,3 +11,4 @@ while [ $number -ge 0 ]; do
 done 
 
 echo "time is up"
+read -p "What is your name?: " name
